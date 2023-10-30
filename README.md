@@ -11,10 +11,10 @@
 
 - 📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:
   - [Loan Status Prediction](#): Developed a model to predict loan approval status.
-  - [Spam Email Filter](#): Built an email filter to classify spam and non-spam emails.
-  - [Credit Card Fraud Prevention](#): Employed advanced data analytics techniques for real-time fraud detection.
-  - [Excel EdTech Dashboard](#): Streamlined student application processes with custom Excel solutions.
-  - [E-commerce Sales Dashboard](#): Created interactive Tableau dashboards for a global E-commerce company.
+  - [Spam Email Filter](https://github.com/najirh/Email-Spam-Prediction): Built an email filter to classify spam and non-spam emails.
+  - [Credit Card Fraud Prevention](https://github.com/najirh/credit_card_fraud_transaction_detection): Employed advanced data analytics techniques for real-time fraud detection.
+  - [Excel EdTech Dashboard](https://docs.google.com/spreadsheets/d/19RleeME8w1QV4r0H4_B2cULgFn-f0m2WRYt5Dug8o-E/edit#gid=2001764008): Streamlined student application processes with custom Excel solutions.
+  - [E-commerce Sales Dashboard](https://public.tableau.com/app/profile/najir.hussain/viz/EcommerceSalesDashboardXCompanyYTDSalesAnalysis/Dashboard): Created interactive Tableau dashboards for a global E-commerce company.
 - 📜 Certifications: See my certifications, including Advanced Excel and Tableau.
 - 💼 Experience: Discover my professional journey in roles like Senior Counsellor at LCI International Group.
 
