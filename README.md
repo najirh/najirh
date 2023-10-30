@@ -20,7 +20,7 @@
 
 ### Get in Touch
 
-- 💬 Connect with me on LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/n-h-956202100/))
+- 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/n-h-956202100/)
 - 📧 For inquiries, drop me an email at business.najir@gmail.com
 
 Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 🚀
