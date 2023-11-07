@@ -10,7 +10,7 @@
 ### What You'll Find Here
 
 - 📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:
-  - [Loan Status Prediction]([#](https://github.com/najirh/loan_aproval_status)): Developed a model to predict loan approval status.
+  - [Loan Status Prediction](https://github.com/najirh/loan_aproval_status): Developed a model to predict loan approval status.
   - [Spam Email Filter](https://github.com/najirh/Email-Spam-Prediction): Built an email filter to classify spam and non-spam emails.
   - [Credit Card Fraud Prevention](https://github.com/najirh/credit_card_fraud_transaction_detection): Employed advanced data analytics techniques for real-time fraud detection.
   - [Excel EdTech Dashboard](https://docs.google.com/spreadsheets/d/19RleeME8w1QV4r0H4_B2cULgFn-f0m2WRYt5Dug8o-E/edit#gid=2001764008): Streamlined student application processes with custom Excel solutions.
