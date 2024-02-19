@@ -1,10 +1,10 @@
 ## Welcome to My GitHub!
 
-👋 Hi, I'm Najir Hussain, a passionate Data Analyst with a background in business and a love for turning data into actionable insights. 
+👋 Hi there! I'm Najir Hussain, a dedicated Business Analyst with over 4 years of experience in transforming data into actionable insights.
 
 ### About Me
 
-- 📈 Skilled in Advanced Excel and Tableau, I specialize in data analysis, visualization, and dashboard creation.
+- 📈 Skilled in Python, SQL, Advanced Excel and Tableau, I specialize in data analysis, visualization, and dashboard creation.
 - 🧐 I'm enthusiastic about problem-solving, and my expertise extends to Python, machine learning, and more.
 
 ### What You'll Find Here
@@ -20,7 +20,7 @@
 
 ### Get in Touch
 
-- 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/n-h-956202100/)
-- 📧 For inquiries, drop me an email at business.najir@gmail.com
+- 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/najirr/)
+- 📧 For inquiries, drop me an email at najirr@outlook.com
 
 Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 🚀
