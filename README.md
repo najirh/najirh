@@ -1,6 +1,6 @@
 ## Welcome to My GitHub!
 
-👋 Hi there! I'm Najir Hussain, a dedicated Business Analyst with over 4 years of experience in transforming data into actionable insights.
+👋 Hi there! I'm Najir a dedicated Business Analyst with over 4 years of experience in transforming data into actionable insights.
 
 ### About Me
 
