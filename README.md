@@ -1,6 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
-
 I'm a passionate Data Analyst with over 4 years of experience in data analysis, operational optimization, and customer experience improvement. As the founder of **Zero Analyst**, I have mentored **1,000+ aspiring data professionals**, helping them transform their careers from non-data roles into the dynamic field of data analytics.
 In addition to personalized mentorship, I have trained **2,000+ professionals** through live workshops, focusing on SQL and essential data skills to enhance their technical abilities and career prospects.
 With extensive experience in tools such as **AWS**, **Linux**, **Python**, **PostgreSQL**, **Tableau**, **Power BI**, and **Excel**, I have successfully led multiple end-to-end data analytics projects. My journey includes working as a Senior Analyst at **Dell Technologies**, where I leveraged data to drive strategic decisions, enhance customer experiences, and streamline operational workflows.
