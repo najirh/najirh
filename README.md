@@ -7,6 +7,13 @@ With extensive experience in tools such as **AWS**, **Linux**, **Python**, **Pos
 
 Currently, I focus on empowering individuals through mentorship and helping them navigate their path to becoming successful data analysts.
 
+# 📚 SQL Mentor
+SQL Mentor is an advanced Discord bot designed to help users master SQL through interactive challenges, daily questions, and a competitive point-based system. This innovative bot features over **400 real-time SQL interview questions**, allowing users to practice their skills by topic, company, or difficulty level. 
+
+With features such as daily SQL challenges, a leaderboard for competitive learning, and real-time SQL battles, SQL Mentor creates a fun and engaging environment for both beginners and experienced developers to improve their database querying abilities. The bot also includes a user-specific progress tracking system, achievement rewards, and a community-driven question reporting feature to enhance the learning experience.
+
+Check out the project [here](https://github.com/najirh/sql-mentor-bot).
+
 
 
 ## 🌐 Socials:
